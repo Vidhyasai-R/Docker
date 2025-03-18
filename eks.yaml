@@ -8,5 +8,5 @@ metadata:
 managedNodeGroups:
   - name: expense
     instanceTypes: ["m5.large"]
-    desiredCapacity: 1
+    desiredCapacity: 3
     spot: true
